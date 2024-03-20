@@ -1,21 +1,9 @@
-// Java code to illustrate "=" operator
 
-import java.io.*;
-
-class Assignment {
-	public static void main(String[] args)
-	{
-		// Declaring variables
-		int num;
-		String name;
-
-		// Assigning values
-		num = 10;
-		name = "GeeksforGeeks";
-
-		// Displaying the assigned values
-		System.out.println("num is assigned: " + num);
-		System.out.println("name is assigned: " + name);
-	}
+public class SumOfNumbers1.
+{
+public static void main(String args[])
+{
+int n1 = 225, n2 = 115, sum;
+sum = n1 + n2;
+System.out.println("The sum of numbers is: "+sum);
 }
-
